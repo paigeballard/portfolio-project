@@ -36,7 +36,8 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-resume.git"
     },
     "dependencies": {
-        "bootstrap": "4.5.0"
+        "bootstrap": "4.5.0",
+        "freezeframe": "^4.1.3"
     },
     "devDependencies": {
         "autoprefixer": "9.8.0",
