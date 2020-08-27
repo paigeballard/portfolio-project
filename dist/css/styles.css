@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #aaaaaa;
+  color: #212529;
   text-decoration: underline;
 }
 
@@ -213,7 +213,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c757d;
+  color: #212529;
   text-align: left;
   caption-side: bottom;
 }
@@ -9799,7 +9799,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #85144b !important;
+  color: #343a40 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10002,7 +10002,7 @@ h3 {
 }
 body {
   padding-top: 3.375rem;
-  color: #6c757d;
+  color: #343a40;
 }
 
 @media (min-width: 992px) {
@@ -10064,8 +10064,8 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid;
-    color: #001f3f;
+    border: 0.3rem solid;
+    color: #343a40;
   }
   #sideNav .navbar-collapse {
     display: flex;
