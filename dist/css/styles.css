@@ -10064,7 +10064,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.3rem solid;
+    border: 0.4rem solid;
     color: #343a40;
   }
   #sideNav .navbar-collapse {
@@ -10123,7 +10123,7 @@ section.resume-section .resume-section-content {
 
 @media (min-width: 768px) {
   section.resume-section {
-    min-height: 100vh;
+    min-height: 60vh;
   }
 }
 @media (min-width: 992px) {
